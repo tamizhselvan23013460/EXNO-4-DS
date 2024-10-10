@@ -126,8 +126,7 @@ print(df2['SalStat'])
 df2
 ```
 
-![image](https://github.com/user-attachments/assets/57dc5843-48d2-4a28-8052-c5a168bec6ee)
-
+![image](https://github.com/user-attachments/assets/dc505153-0bcd-403f-9681-2a18307f7117)
 ```
 new_data=pd.get_dummies(df2,drop_first=True)
 new_data
