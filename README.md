@@ -244,5 +244,7 @@ print(selected_features)
 ![image](https://github.com/user-attachments/assets/de067558-b9ac-4c6a-b3b3-f7bf34ba422c)
 
 
+
 # RESULT:
+
 Hence,Feature Scaling and Feature Selection process has been performed on the given data set.
