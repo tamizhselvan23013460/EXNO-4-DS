@@ -245,4 +245,4 @@ print(selected_features)
 
 
 # RESULT:
-           Hence,Feature Scaling and Feature Selection process has been performed on the given data set.
+Hence,Feature Scaling and Feature Selection process has been performed on the given data set.
